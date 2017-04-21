@@ -10,3 +10,8 @@ It's just a FileMaker file, so testing code becomes a record.Your learning proce
 tutorial videos on YouTube
 #1 https://www.youtube.com/watch?v=C6d91FnY2WE
 #2 https://www.youtube.com/watch?v=Td7gh0N-Cgs
+
+2017-04-21: I added some records for FM-Tokyo Users Meeting.
+(Sample: CSS grid, custom element)
+
+OSX10.12.4, FileMakerPro15~ is required for this DEMO.
